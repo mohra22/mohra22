@@ -4,7 +4,11 @@
 
 I am interested in web development, applications and the Internet of Things
 
-Skills:  JS / HTML / CSS/ Dart
+Skills:  
+*JS 
+*HTML 
+*CSS
+*Dart
 
 
 
