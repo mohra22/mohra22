@@ -27,4 +27,4 @@ Skills:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohra22&" alt="mohra22" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohra22&theme=tokyonight)
