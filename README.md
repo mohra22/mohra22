@@ -2,9 +2,9 @@
 <h3 align="center">I am a web and app developer</h3>
 
 
-* I am interested in web development, applications and the Internet of Things
+* I am front-end developer and interested in the Internet of Things.
 * 🌱I strive to learn and grow every day until I am skilled in this field
-* 🌱I’m currently learning **Dart**
+* 🌱I’m currently learning **MySQL**
 
 
 
@@ -13,7 +13,7 @@ Skills:
 * JS 
 * HTML 
 * CSS
-* Dart
+
 
 
 
